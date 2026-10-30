@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/gonijoin-hyakushu",
  "yomi": "ごにじょういんおんひゃくしゅ",
  "category": "定数歌",
- "description": null,
+ "description": {
+  "kind": "百首歌",
+  "era": "鎌倉後期",
+  "author": "後二条院",
+  "desc": "後二条院の百首。四季・恋・雑・神祇・釈教の題で詠まれ、現存は74首と注記されている。"
+ },
  "editions": [
   {
    "pid": "1088203",
